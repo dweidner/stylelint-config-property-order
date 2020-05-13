@@ -1,6 +1,6 @@
 {
   "name": "@dweidner/stylelint-config-property-order",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Opinionated stylelint config to sort CSS properties by predefined rules",
   "homepage": "https://github.com/dweidner/stylelint-config-property-order#readme",
   "repository": "dweidner/stylelint-config-property-order",
