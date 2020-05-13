@@ -13,6 +13,12 @@ module.exports = {
     'grid-column-gap',
     'gap',
     'row-gap',
-    'column-gap'
+    'column-gap',
+    'grid-row',
+    'grid-row-start',
+    'grid-row-end',
+    'grid-column',
+    'grid-column-start',
+    'grid-column-end'
   ]
 };
